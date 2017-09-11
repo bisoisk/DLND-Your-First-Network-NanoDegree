@@ -1,5 +1,5 @@
-# DLND-Your-Firsr-Network-NanoDegree
+# DLND-Your-First-Network-NanoDegree
 Nanodegree project-1
 
-First project of Udacity DLND(Deep Learning Nano Degree) course.This project is about bike sharing prediction tbrough NN(through Neural Network)
+First project of Udacity DLND(Deep Learning Nano Degree) course.This project is about bike sharing prediction through NN(through Neural Network)
 of supervised type problem.
